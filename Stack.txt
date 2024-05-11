@@ -1,0 +1,12 @@
+StackMember{name='Program 1', memory=100, priority=1}
+StackMember{name='Program 4', memory=400, priority=2}
+StackMember{name='Program 2', memory=200, priority=2}
+StackMember{name='Program 3', memory=300, priority=3}
+StackMember{name='DontOpenThisFile', memory=10000, priority=999}
+
+StackMember{name='Program 1', memory=100, priority=1}
+StackMember{name='NormalFile', memory=10, priority=2}
+StackMember{name='Program 4', memory=400, priority=2}
+StackMember{name='Program 2', memory=200, priority=2}
+StackMember{name='Program 3', memory=300, priority=3}
+
